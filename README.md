@@ -1,4 +1,4 @@
-# Global_Harmony_front
+# Global_Harmony_Front
 A Decentralsed AI initiative aimed at promoting global sustainability and harmony through open source collaboration.
 
 Welcome to Global Harmony Front A decentralised AI project for fostering Global harmony and sustainability through opensoure collaboration.
